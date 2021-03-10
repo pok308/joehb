@@ -51,4 +51,3 @@ jobs:
           USER: ${{secrets.USER}}
           PASSWORD: ${{secrets.PASSWORD}}
           INVITECODE: ${{secrets.INVITECODE}}
-          echo test, and deploy your project.
